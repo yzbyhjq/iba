@@ -1,0 +1,4 @@
+EXPORTS
+iba_position
+iba_position_initialize
+iba_position_terminate

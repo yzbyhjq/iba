@@ -1,0 +1,4 @@
+EXPORTS
+iba
+iba_initialize
+iba_terminate

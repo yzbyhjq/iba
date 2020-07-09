@@ -1,0 +1,4 @@
+EXPORTS
+com_diversity
+com_diversity_initialize
+com_diversity_terminate
